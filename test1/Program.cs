@@ -11,6 +11,8 @@ namespace test1
         static void Main(string[] args)
         {
             string a;
+
+            string test = "test";
         }
     }
 }
